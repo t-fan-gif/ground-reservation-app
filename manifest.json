@@ -1,6 +1,6 @@
 {
-  "name": "YAAカレンダー",
-  "short_name": "YAAカレンダー",
+  "name": "大樹カレンダー",
+  "short_name": "大樹カレンダー",
   "start_url": "./index.html",
   "display": "standalone",
   "background_color": "#ffffff",
